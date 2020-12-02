@@ -1,6 +1,6 @@
-# GRAPHQL Study
+# GraphQL Study
 
 ## FirstApp
 
-  Movie API with Graphql
+  Members(People) API with Graphql
   

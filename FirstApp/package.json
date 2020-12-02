@@ -1,0 +1,30 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "Movie API with GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node index.js"
+  },
+  "repository": "git+https://github.com/Happy-Mr-Jason/GraphQL-Study.git",
+  "keywords": [
+    "GraphQL"
+  ],
+  "author": "Seongjin Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Happy-Mr-Jason/GraphQL-Study/issues"
+  },
+  "homepage": "https://github.com/Happy-Mr-Jason/GraphQL-Study#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "graphql-yoga": "^1.18.3",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.8",
+    "@babel/core": "^7.12.9",
+    "@babel/node": "^7.12.6",
+    "@babel/preset-env": "^7.12.7"
+  }
+}
